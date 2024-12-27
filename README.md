@@ -1,2 +1,3 @@
 # Bootstrap-Nav-Slider
-This project features a responsive navigation slider built using Bootstrap. The slider enhances the user experience by providing an interactive and mobile-friendly navigation menu.
+
+![Bootstrap Nav Slider Image](https://github.com/user-attachments/assets/4807be37-ce6b-493f-ad93-2c617e222276)
